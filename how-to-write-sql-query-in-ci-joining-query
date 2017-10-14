@@ -1,0 +1,1 @@
+$qry=$this->db->query("SELECT * FROM USER as us, detail as d WHERE us.id=d.user_id ");  //user and detail is a table
