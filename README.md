@@ -1,0 +1,1 @@
+# how-to-write-sql-query-in-ci-joining-query-
